@@ -3,7 +3,7 @@ This project is the first assignment based on **Navigators** and **Various Input
 
 ### Output
 
-| ![login](https://user-images.githubusercontent.com/85741255/126199936-503f27f4-3b35-4404-abc7-c03ea94fd049.PNG) | ![register](https://user-images.githubusercontent.com/85741255/126199955-2ddf4f14-0d8f-41a9-89ab-43a3e8a31b8b.PNG) | ![greetings](https://user-images.githubusercontent.com/85741255/126199964-8f98d313-71e2-4455-a47f-727a752d908a.PNG) |
+| ![login](https://user-images.githubusercontent.com/85741255/126202454-c0048c4c-aab8-428b-b5e9-e1cb71fe61b9.PNG) | ![register](https://user-images.githubusercontent.com/85741255/126202508-a120707e-f1bb-4f66-8743-b2ffb2ebb2c5.PNG) | ![greetings](https://user-images.githubusercontent.com/85741255/126202541-ba58652f-8964-42c3-8409-7883138551a6.PNG) |
 | --- | --- | --- |
 
 ##### Screenshots
